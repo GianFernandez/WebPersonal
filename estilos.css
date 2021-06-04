@@ -1,0 +1,80 @@
+body{
+    background-color: bisque;
+    border: bisque 10px solid;
+}
+
+nav{
+    display: flex;
+    background-color: #6b2828;
+}
+
+nav a{
+    padding: 15px 25px;
+    font-size: 1.2em;
+    text-decoration: none;
+    color: white;
+    margin: auto;
+    text-transform: uppercase;
+}
+
+
+img{
+    display: block;
+    border: black 1px solid;
+    margin-top: 50px;
+    margin-left: 50px;
+    width: 325;
+    height:625;
+}
+
+h1{
+    text-transform: uppercase;
+    position: absolute; top: 85px; left: 400px;
+    font-weight: normal;
+    font-size: 50px;
+}
+
+h2{
+    position: absolute; top: 120px; left: 400px;
+    font-weight: normal;
+    font-size: 50px; 
+}
+
+#about{
+    font-size: 20px;
+    border: black 3px transparent;
+    position: absolute; top: 170px; left: 400px;
+    margin-right: 35%;
+}
+
+#tel{
+    font-size: 20px;
+    border: black 3px transparent;
+    position: absolute; top: 70px; left: 100px;
+    margin-right: 35%;
+}
+
+#direcc{
+    font-size: 20px;
+    border: black 3px transparent;
+    position: absolute; top: 110px; left: 110px;
+    margin-right: 35%;
+}
+
+#e-mail{
+    font-size: 20px;
+    border: black 3px transparent;
+    position: absolute; top: 150px; left: 185px;
+    margin-right: 35%;
+}
+
+
+ol{
+    font-size: 20px;
+    border: black 3px transparent;
+    position: absolute; top: 170px; left: 400px;
+}
+
+iframe{
+    position: absolute; top: 270px; left: 420px;
+}
